@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 PaulaBurgheleaGithub/bun is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Stripe](https://stripe.com) – Payment Services
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -58,11 +59,13 @@ PaulaBurgheleaGithub/bun is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 PaulaBurgheleaGithub/bun is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -119,14 +122,15 @@ PaulaBurgheleaGithub/bun is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [PaulaBurgheleaGithub/bun](https://github.com/PaulaBurgheleaGithub/bun)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|148<br/>Tools used|11/09/23 <br/>Report generated|
+|149<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -662,9 +666,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (87)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (88)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (87)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (88)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -700,6 +704,7 @@ Full tech stack [here](/techstack.md)
 |[body-parser](https://www.npmjs.com/body-parser)|v1.20.1|10/11/23|dave caruso |MIT|N/A|
 |[buffer](https://www.npmjs.com/buffer)|v5.7.1|06/24/23|dave caruso |MIT|N/A|
 |[bufferutil](https://www.npmjs.com/bufferutil)|v4.0.7|07/21/23|Jarred Sumner |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|08/24/23|jhmaster |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v7.6.0|10/11/23|dave caruso |MIT|N/A|
 |[copyfiles](https://www.npmjs.com/copyfiles)|v2.4.1|08/24/23|jhmaster |MIT|N/A|
 |[crypto-browserify](https://www.npmjs.com/crypto-browserify)|v3.12.0|06/24/23|dave caruso |MIT|N/A|
@@ -759,4 +764,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
