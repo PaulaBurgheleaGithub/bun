@@ -130,7 +130,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [PaulaBurgheleaGithub/bun](https://github.com/PaulaBurgheleaGithub/bun)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|149<br/>Tools used|01/04/24 <br/>Report generated|
+|149<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
